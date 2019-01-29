@@ -1,10 +1,12 @@
 const express = require('express');
-const middleware = require('./middleware');
+const morgan = require('morgan');
 
 const app = express();
 const PORT = process.env.PORT || 8282;
 
-middleware(app);
+if (process.env.NODE_ENV === 'development') {
+  app.use(morgan('dev'));
+}
 
 app.listen(PORT, (error) => {
   if (error) {
