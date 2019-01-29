@@ -1,0 +1,458 @@
+[
+  {
+    "ID": 565460,
+    "Price": 4550000,
+    "LongDescription": [
+      {
+        "Head": "",
+        "Body": "Located in the sought after area of Courchevel 1850, this duplex apartment of approx.140 sqm is part of the new Six Senses development, the resort's first ever Spa residence with 24hr concierge service. <BR><BR>Accommodation comprises 4 double en suite double bedrooms, a fully equipped open plan kitchen with high end appliances, a dining area and a spacious reception with open fireplace leading onto a terrace that sees magnificent mountain views.<BR><BR>As part of the Six Senses residence, the apartment includes access to the development's vast private pool, spa facilities, staff and gardens.<BR><BR>The property is sold with its own garage, cellar and ski store, with excellent access to the slopes of the Three Valleys.<BR><BR>Agency fees payable by the vendor. Table of fees available online and on request."
+      }
+    ],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Six Senses Residence",
+    "AddressLine2": "Courchevel 1850, French Alps, 73120",
+    "Bathrooms": 4,
+    "Bedrooms": 4,
+    "Receptions": 1,
+    "IsSold": true,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 532378,
+    "Price": 29000000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Saint Jean Cap Ferrat",
+    "AddressLine2": "French Riviera, 06230",
+    "Bathrooms": 6,
+    "Bedrooms": 6,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 611481,
+    "Price": 1250000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Paris 75016 Auteuil",
+    "AddressLine2": "",
+    "Bathrooms": 2,
+    "Bedrooms": 4,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 611480,
+    "Price": 3480000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Paris 75006 Beaux Arts",
+    "AddressLine2": "",
+    "Bathrooms": 0,
+    "Bedrooms": 3,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 611479,
+    "Price": 2350000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Paris 75007 Sèvres-Babylone",
+    "AddressLine2": "",
+    "Bathrooms": 2,
+    "Bedrooms": 2,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 611478,
+    "Price": 1785000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Paris 75007 Musée d'Orsay",
+    "AddressLine2": "",
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 611477,
+    "Price": 825000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Paris 75007 Invalides",
+    "AddressLine2": "",
+    "Bathrooms": 1,
+    "Bedrooms": 1,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 574155,
+    "Price": 2415000,
+    "LongDescription": [
+      {
+        "Head": "",
+        "Body": "A superb, totally refurbished chalet of approximately 330 sq m.<BR><BR>Accommodation comprises 7 bedrooms, 6 bathrooms, fully equipped kitchen featuring high end appliances and a spacious reception area with open plan dining area. <BR><BR>The property is finished to the highest standards throughout, with interiors selected with comfort in mind, boasting under floor heating and a Bose sound system.<BR><BR>Sold with cellar, laundry room and ski store room.<BR><BR>Agency fees payable by the vendor. Table of fees available online at savills.fr and on request.<BR><BR>Please note, the map does not show the exact location of the property and all measurements are approximate, this data is provided for guidance purposes only."
+      }
+    ],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Le Praz",
+    "AddressLine2": "Courchevel, French Alps, 73120",
+    "Bathrooms": 6,
+    "Bedrooms": 7,
+    "Receptions": 0,
+    "IsSold": true,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 600406,
+    "Price": 4500000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Paris 75006 Luxembourg",
+    "AddressLine2": "",
+    "Bathrooms": 2,
+    "Bedrooms": 0,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 561623,
+    "Price": 1696000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Cap D'Antibes",
+    "AddressLine2": "French Riviera, 06160",
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 611244,
+    "Price": 2250000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Paris 75017 Pereire",
+    "AddressLine2": "",
+    "Bathrooms": 1,
+    "Bedrooms": 4,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 561234,
+    "Price": 2250000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Chalet Auberive",
+    "AddressLine2": "Val d'Isere, France",
+    "Bathrooms": 4,
+    "Bedrooms": 4,
+    "Receptions": 1,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 599926,
+    "Price": 2890000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Cannes",
+    "AddressLine2": "French Riviera, 06400",
+    "Bathrooms": 3,
+    "Bedrooms": 3,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 597940,
+    "Price": 690000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Le Cannet",
+    "AddressLine2": "French Riviera, 06110",
+    "Bathrooms": 0,
+    "Bedrooms": 3,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 591414,
+    "Price": 3950000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Cannes Palm Beach",
+    "AddressLine2": "French Riviera, 06400",
+    "Bathrooms": 8,
+    "Bedrooms": 8,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 580511,
+    "Price": 14900000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Cannes La Californie",
+    "AddressLine2": "French Riviera, 06400",
+    "Bathrooms": 3,
+    "Bedrooms": 4,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 552704,
+    "Price": 5500000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Super Cannes",
+    "AddressLine2": "French Riviera, 06400",
+    "Bathrooms": 4,
+    "Bedrooms": 4,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 541708,
+    "Price": 5000000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Cannes Croisette",
+    "AddressLine2": "French Riviera, 06400",
+    "Bathrooms": 4,
+    "Bedrooms": 5,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 527620,
+    "Price": 5200000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Théoule Sur Mer",
+    "AddressLine2": "French Riviera, 06590",
+    "Bathrooms": 0,
+    "Bedrooms": 6,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 527592,
+    "Price": 2067000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Basse Californie",
+    "AddressLine2": "French Riviera, 06400",
+    "Bathrooms": 4,
+    "Bedrooms": 5,
+    "Receptions": 1,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 527612,
+    "Price": 1590000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Vallauris",
+    "AddressLine2": "French Riviera, 06220",
+    "Bathrooms": 4,
+    "Bedrooms": 5,
+    "Receptions": 2,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 611060,
+    "Price": 3690000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Valbonne",
+    "AddressLine2": "French Riviera, 06560",
+    "Bathrooms": 0,
+    "Bedrooms": 8,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 577265,
+    "Price": 861000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Grasse",
+    "AddressLine2": "French Riviera, 06130",
+    "Bathrooms": 4,
+    "Bedrooms": 4,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 527648,
+    "Price": 1990000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Opio",
+    "AddressLine2": "French Riviera, 06650",
+    "Bathrooms": 0,
+    "Bedrooms": 6,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 611481,
+    "Price": 1250000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Paris 75016 Auteuil",
+    "AddressLine2": "",
+    "Bathrooms": 2,
+    "Bedrooms": 4,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 611027,
+    "Price": 9975000,
+    "LongDescription": [],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Châteauneuf de Grasse",
+    "AddressLine2": "Near Cannes, French Riviera, 06740",
+    "Bathrooms": 5,
+    "Bedrooms": 5,
+    "Receptions": 0,
+    "IsSold": false,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 604295,
+    "Price": 0,
+    "LongDescription": [
+      {
+        "Head": "",
+        "Body": "This traditional 7 bedroom chalet of approximately 700 sq m benefits from an ideal central location, ski in- ski out access and entirely renovated interiors that boast modern Alpine charm.<BR><BR>Accommodation is composed of 7 en suite double bedrooms, all with excellent finishings, a spacious reception room benefitting from high ceilings and a central fireplace, and a terrace looking onto marvellous panoramic views. In keeping with the property's modern renovation, also included is a separate TV room, a games room and home cinema.<BR><BR>The chalet also comprises a modern, fully fitted open plan kitchen with high end appliances and kitchen diner, as well as an elegant independent dining room. <BR><BR>The property also features its own wellness area comprising a spa, Jacuzzi, massage room, steam room and sauna, to help one relax after a busy day on the slopes.<BR><BR>The property also includes a plant room, 3 staff bedrooms each with own shower room, a ski store, 2 lifts, a garage and outside parking spaces.<BR><BR>Agency fees payable by the vendor. Table of fees available online and on request.<BR><BR>Please note, the map does not show the exact location of the property and all measurements are approximate, this data is provided for guidance purposes only."
+      }
+    ],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Courchevel 1850",
+    "AddressLine2": "Bellecôte, French Alps, 73120",
+    "Bathrooms": 7,
+    "Bedrooms": 7,
+    "Receptions": 2,
+    "IsSold": true,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 604294,
+    "Price": 0,
+    "LongDescription": [
+      {
+        "Head": "",
+        "Body": "A new development of modern, elegant chalets in the village of La Tania, Courchevel. <BR><BR>Properties range from 4 to 5 bedrooms, with accommodation starting from 130sq m. Brand new, these chalets benefit from excellent design and layouts, a ski in/ski out location, high end interiors & applicances and magnificent views. <BR><BR>Located in a village setting, these chalets boast a residential, private location with access to all amenities and slopes, a short distance from the busy village centre of Courchevel.<BR><BR><BR>Agency fees payable by the vendor.<BR>Table of fees available online at savills.fr and on request.<BR><BR>Please note, the map does not show the exact location of the property and all measurements are approximate, this data is provided for guidance purposes only."
+      }
+    ],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "La Tania",
+    "AddressLine2": "Courchevel, French Alps, 73120",
+    "Bathrooms": 4,
+    "Bedrooms": 4,
+    "Receptions": 1,
+    "IsSold": true,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 582605,
+    "Price": 2400000,
+    "LongDescription": [
+      {
+        "Head": "",
+        "Body": "Benefitting from an ideal location in a quiet residential area of Courchevel Moriond, Le Belvédère, this charming chalet is situated on the slopes with direct ski access from its own ski room. <BR><BR>Accommodation of approximately 165 sq m includes an open plan reception and dining area with fireplace leading onto a terrace, a kitchen, 6 bedrooms, 4 bathrooms, 3 additional independent toilets, ski store and kitchen. Featuring high proportions and traditional interiors, this property is full of classic Alpine character.<BR><BR>This chalet benefits from a cellar, garage, panoramic views and a southern exposure.<BR><BR>Agency fees payable by the vendor.<BR>Table of fees available online at savills.fr and on request.<BR><BR>Please note, the map does not show the exact location of the property and all measurements are approximate, this data is provided for guidance purposes only."
+      }
+    ],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Courchevel Moriond",
+    "AddressLine2": "French Alps, 73120",
+    "Bathrooms": 4,
+    "Bedrooms": 6,
+    "Receptions": 1,
+    "IsSold": true,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 574155,
+    "Price": 2415000,
+    "LongDescription": [
+      {
+        "Head": "",
+        "Body": "A superb, totally refurbished chalet of approximately 330 sq m.<BR><BR>Accommodation comprises 7 bedrooms, 6 bathrooms, fully equipped kitchen featuring high end appliances and a spacious reception area with open plan dining area. <BR><BR>The property is finished to the highest standards throughout, with interiors selected with comfort in mind, boasting under floor heating and a Bose sound system.<BR><BR>Sold with cellar, laundry room and ski store room.<BR><BR>Agency fees payable by the vendor. Table of fees available online at savills.fr and on request.<BR><BR>Please note, the map does not show the exact location of the property and all measurements are approximate, this data is provided for guidance purposes only."
+      }
+    ],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Le Praz",
+    "AddressLine2": "Courchevel, French Alps, 73120",
+    "Bathrooms": 6,
+    "Bedrooms": 7,
+    "Receptions": 0,
+    "IsSold": true,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 567925,
+    "Price": 2730000,
+    "LongDescription": [
+      {
+        "Head": "",
+        "Body": "Located in a residential area you will be seduced by its quality construction and optimized layout.<BR><BR>Composed of 6 bedrooms, 5 bathrooms, 1 shower room, a beautiful living room with fireplace, a very comfortable dining area with direct access to the terrace, a large entrance with dressing room, open kitchen, very large sunny terrace, playing room, ski room and double garage. <BR><BR>Chalet in calm location without any overlook.<BR><BR>Agency fees at the charge of the vendor<BR>Fee table available online at savills.fr and on request<BR>Please note, the map does not show the exact location of the property and all measurements are approximate, this data is provided for guidance purposes only.<BR>DPE/GES in progress"
+      }
+    ],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Courchevel",
+    "AddressLine2": "La Tania, French Alps, 73120",
+    "Bathrooms": 6,
+    "Bedrooms": 6,
+    "Receptions": 1,
+    "IsSold": true,
+    "IsHelpToBuy": false
+  },
+  {
+    "ID": 565460,
+    "Price": 4550000,
+    "LongDescription": [
+      {
+        "Head": "",
+        "Body": "Located in the sought after area of Courchevel 1850, this duplex apartment of approx.140 sqm is part of the new Six Senses development, the resort's first ever Spa residence with 24hr concierge service. <BR><BR>Accommodation comprises 4 double en suite double bedrooms, a fully equipped open plan kitchen with high end appliances, a dining area and a spacious reception with open fireplace leading onto a terrace that sees magnificent mountain views.<BR><BR>As part of the Six Senses residence, the apartment includes access to the development's vast private pool, spa facilities, staff and gardens.<BR><BR>The property is sold with its own garage, cellar and ski store, with excellent access to the slopes of the Three Valleys.<BR><BR>Agency fees payable by the vendor. Table of fees available online and on request."
+      }
+    ],
+    "DisplayCurrency": "EUR",
+    "AddressLine1": "Six Senses Residence",
+    "AddressLine2": "Courchevel 1850, French Alps, 73120",
+    "Bathrooms": 4,
+    "Bedrooms": 4,
+    "Receptions": 1,
+    "IsSold": true,
+    "IsHelpToBuy": false
+  }
+]
