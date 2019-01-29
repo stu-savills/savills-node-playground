@@ -27,9 +27,9 @@ We would like you to create a **GET** API endpoint */properties*  which returns 
 }
 ```
 
-The API accepts a `language` header whose value can be either `en` or `fr`, we would expect requests with the `en` value to return properties with `GBP` currency values, and `EUR` currency values for `fr` language header respectively.
+The API should accept a `language` header whose value can be either `en` or `fr`, we would expect requests with the `en` value to return properties with `GBP` currency values, and `EUR` currency values for `fr` language header respectively. We would like this functionality implemented through the use of middleware.
 
-The endpoint should be able to filter properties based on `min_price` and `max_price` price query parameters to find the properties within the given range. If you have time maybe you could also filter on  `is_sold` and `is_help_to_buy` query parameters.
+The endpoint should be able to filter properties based on `min_price` and `max_price` query parameters to find the properties within the given price range. If you have time maybe you could also filter on `is_sold` and `is_help_to_buy` query parameters.
 
 For example a request made to `/properties?min_price=500000&max_price=1500000` with a location header of `fr` would return properties between €500,000 and €1,500,000 and consist of no duplicates.
 
